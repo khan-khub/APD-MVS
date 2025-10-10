@@ -1,6 +1,6 @@
 # APD-MVS
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
-[![Paper](https://img.shields.io/badge/APD-MVS.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Adaptive_Patch_Deformation_for_Textureless-Resilient_Multi-View_Stereo_CVPR_2023_paper.pdf) 
+[![Paper](https://img.shields.io/badge/Paper-APD--MVS-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Adaptive_Patch_Deformation_for_Textureless-Resilient_Multi-View_Stereo_CVPR_2023_paper.pdf) 
 ## News
 The enchanced version of APD-MVS is released at [APDe-MVS](https://github.com/whoiszzj/APDe-MVS.git)!
 
